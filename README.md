@@ -82,10 +82,15 @@ HTML5
 HTML elements such as:
 
 Headings (h1–h3)
+
 Paragraphs and lists
+
 Images (img)
+
 Videos (video)
+
 Horizontal rules (hr)
+
 No external libraries, frameworks, CSS, or JavaScript were used.
 
 How to Run the Project:
